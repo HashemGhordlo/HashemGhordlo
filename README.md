@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello my name is Hashem, and I am a freshman at Bilkent.
+- How to reach me: hashemghordlo07@gmail.com
 <!--
 **HashemGhordlo/HashemGhordlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
